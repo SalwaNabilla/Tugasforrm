@@ -1,0 +1,13 @@
+html, div, h1, h2, form, input, fieldset{
+    padding: 10px;
+}
+fieldset{
+    background-color: 	#F8F8FF;
+}
+
+h1 {
+    text-align: center;
+}
+hr {
+    width: 350px;
+}
